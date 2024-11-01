@@ -1,2 +1,2 @@
 # skronk-rnbo
-RNBO Patches for Skronk
+these are the rnbo patches for skronk
